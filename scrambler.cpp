@@ -1,3 +1,11 @@
+/* **********************************************************
+Simple Text Scrambler
+Takes user generated passphrase and scrambles text document.
+Code by Kevin Brodersen
+Last Modified: 2/21/2025
+
+********************************************************** */
+
 #include <iostream>
 #include <string>
 #include <fstream>
